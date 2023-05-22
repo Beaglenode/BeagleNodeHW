@@ -76,7 +76,7 @@ AnnotateOrder=0
 DoLibraryUpdate=1
 DoDatabaseUpdate=1
 ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=1
+ClassGenCCAutoRoomEnabled=0
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
@@ -185,20 +185,20 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [Parameter1]
-Name=Revision
-Value=A
+Name=Author
+Value=Łukasz Przeniosło
 
 [Parameter2]
-Name=Engineer
-Value=lukasz@przenioslo.com
-
-[Parameter3]
 Name=CompanyName
 Value=Przenioslo Electronics & Software
 
+[Parameter3]
+Name=Engineer
+Value=lukasz@przenioslo.com
+
 [Parameter4]
-Name=Author
-Value=Łukasz Przeniosło
+Name=Revision
+Value=A
 
 [Configuration1]
 Name=Sources
