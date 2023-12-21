@@ -4,3 +4,10 @@ __Previews/*
 Project Logs for BeagleNode/*
 .allspice/*
 *md.backup
+
+# NC Drill and gerber files status report is ignored
+Status Report.Txt
+
+# Design rule check outputs are ignored
+*.html
+*.drc

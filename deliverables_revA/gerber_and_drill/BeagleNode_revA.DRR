@@ -1,0 +1,20 @@
+----------------------------------------------------------------------------------------------------------------------------------
+NCDrill File Report For: BeagleNode_revA.PcbDoc   2023-09-28  14:02:35
+----------------------------------------------------------------------------------------------------------------------------------
+
+Layer Pair : Top Layer to Bottom Layer
+ASCII RoundHoles File : BeagleNode_revA.TXT
+
+Tool       Hole Size               Hole Tolerance               Hole Type       Hole Count   Plated         Tool Travel
+----------------------------------------------------------------------------------------------------------------------------------
+T1      0.3mm (12mil)                                             Round             361       PTH        1622.17mm (63.87inch)
+T2      0.5mm (20mil)                                             Round             2         PTH        11.30mm (0.44inch)
+T3      0.7mm (28mil)                                             Round             9         PTH        99.90mm (3.93inch)
+T4      0.9mm (35mil)                                             Round             170       PTH        989.94mm (38.97inch)
+T5      1.2mm (47mil)                                             Round             64        PTH        392.96mm (15.47inch)
+T6      1.4mm (55mil)                                             Round             2         PTH        5.08mm (0.20inch)
+T7      3.2mm (126mil)                                            Round             6         PTH        412.12mm (16.23inch)
+----------------------------------------------------------------------------------------------------------------------------------
+Totals                                                                              614
+
+Total Processing Time (hh:mm:ss) : 00:00:00
